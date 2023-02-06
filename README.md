@@ -3,5 +3,5 @@
 ## Table Of Contents
 |         Topic          |
 | ---------------------- |
-| Histogram Equalization |
+| [Histogram Equalization](../main/Histogram%20Equalization/) |
 
