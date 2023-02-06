@@ -1,1 +1,5 @@
-"# Digital_Image_Processing_Techniques" 
+#Digital Image Processing Techniques
+| Topic                  |
+| ---------------------- |
+| Histogram Equalization |
+
