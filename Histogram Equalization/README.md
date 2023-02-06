@@ -1,4 +1,4 @@
-**Introduction to Histogram Equalization**
+# Introduction to Histogram Equalization
 
 Image pre-processing is the term for operations on the images at the lowest level of abstraction. These operations do not increase image information content, but they decrease it if entropy is an information measure. The aim of pre-processing is an improvement of the image data that suppresses undesired distortions or enhances some image features relevant for further processing and analysis tasks.
 
@@ -11,7 +11,7 @@ There are four different types of Image Pre-Processing techniques, and they are 
 
 Histogram equalization is one of the Pixel brightness transformations techniques. It is a well-known contrast enhancement technique due to its performance on almost all types of image.
 
-**Histogram equalization**
+## Histogram equalization
 
 A histogram is a representation of frequency distribution. It is the basis for numerous spatial domain processing techniques. Histogram manipulation can be used for image enhancement.
 
@@ -22,7 +22,7 @@ Histogram equalization is a widely used contrast-enhancement technique in image 
 -   Global histogram equalization (GHE)
 -   Local histogram equalization (LHE)
 
-**Example:**
+### Example:
 
 **![](media/699793f114d6ee7b3a1f83a7943a781c.png)**
 
@@ -67,7 +67,7 @@ Notice that the minimum value (52) is now 0 and the maximum value (154) is now 2
 ![](media/2e4d531071f369ba81810febd75008ef.png)
 
 
-**EXECUTION STEPS:**
+## EXECUTION STEPS:
 
 To run the code first compile the file as:
 
@@ -77,13 +77,16 @@ Followed by
 
 **java HistogramEqualization**
 
-**OUTPUT:**
+##OUTPUT:
+### Execution
+**![](media/f428ce9ff1eed64a74de2e8abfa0c8f3.jpg)
 
-**![](media/f428ce9ff1eed64a74de2e8abfa0c8f3.jpg)Execution**
+### Histogram equalization of Unequalized.jpg
+**![](media/0dc8ee2ca388742128a75e207caa3ae9.jpg)
 
-**![](media/0dc8ee2ca388742128a75e207caa3ae9.jpg)Histogram equalization of Unequalized.jpg**
+### Histogram equalization of tiles.png
+**![](media/3bdee08a72a43820071e8870ef66fa20.jpg)
 
-**![](media/3bdee08a72a43820071e8870ef66fa20.jpg)Histogram equalization of tiles.png**
-
-**![](media/4f1933d78eb8efd5719b338c99a0433e.jpg)Histogram Equalization of place.jpg**
+### Histogram Equalization of place.jpg
+**![](media/4f1933d78eb8efd5719b338c99a0433e.jpg)
 
