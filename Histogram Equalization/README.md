@@ -77,16 +77,16 @@ Followed by
 
 **java HistogramEqualization**
 
-##OUTPUT:
+## OUTPUT:
 ### Execution
-**![](media/f428ce9ff1eed64a74de2e8abfa0c8f3.jpg)
+![](media/f428ce9ff1eed64a74de2e8abfa0c8f3.jpg)
 
 ### Histogram equalization of Unequalized.jpg
-**![](media/0dc8ee2ca388742128a75e207caa3ae9.jpg)
+![](media/0dc8ee2ca388742128a75e207caa3ae9.jpg)
 
 ### Histogram equalization of tiles.png
-**![](media/3bdee08a72a43820071e8870ef66fa20.jpg)
+![](media/3bdee08a72a43820071e8870ef66fa20.jpg)
 
 ### Histogram Equalization of place.jpg
-**![](media/4f1933d78eb8efd5719b338c99a0433e.jpg)
+![](media/4f1933d78eb8efd5719b338c99a0433e.jpg)
 
