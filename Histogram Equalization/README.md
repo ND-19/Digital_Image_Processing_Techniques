@@ -66,27 +66,6 @@ Notice that the minimum value (52) is now 0 and the maximum value (154) is now 2
 
 ![](media/2e4d531071f369ba81810febd75008ef.png)
 
-![](media/2e4d531071f369ba81810febd75008ef.png)
-
-**IMPLEMENTATION STEPS:**
-
-The assignment is done using Java Programming language and its libraries for displaying the
-
-image. The code for histogram equalization is written from scratch without using any
-
-libraries that directly give the output.
-
-First, the user is asked to enter the name of the file on which histogram equalization is to be
-
-performed. Then the user is asked to enter the name with which output file is to be stored.
-
-The histogram equalization of the image is then performed and saved as output file.
-
-The file is read in by the ImageIO.read() method and displayed in JLabel which is indeed
-
-displayed inside the JFrame of the JSwings class. The Graphics library is used to plot the
-
-histogram of images and the java.awt.geom library is used for making x and y axis of the histogram.
 
 **EXECUTION STEPS:**
 
